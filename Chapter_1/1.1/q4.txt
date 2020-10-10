@@ -1,0 +1,6 @@
+1.1.4:
+
+a. The keyword 'then' does not exist in Java.
+b. Missing brackets for the if condition.
+c. Everything is fine.
+d. A semicolon is missing after "c = 0".
